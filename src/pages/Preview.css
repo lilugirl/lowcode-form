@@ -1,0 +1,11 @@
+body{
+    width:500px;
+    display: block !important;
+}
+
+.preview{
+    text-align: left;
+}
+.preview .field{
+    justify-content: flex-start;
+ }
